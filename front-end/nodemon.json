@@ -1,0 +1,6 @@
+{
+  "ignore": ["node_modules", ".next"],
+  "watch": ["path-to/ui/dist/**/*"],
+  "ext": "js json",
+  "exec": "next dev"
+}
